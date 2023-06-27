@@ -14,7 +14,7 @@ public class AC{
             System.out.println("Yes");
         }
         else{
-            System.out.println("No");
+            System.out.println("No--AB Feature");
         }
     }
 }
