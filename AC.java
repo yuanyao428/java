@@ -14,7 +14,7 @@ public class AC{
             System.out.println("Yes");
         }
         else{
-            System.out.println("No--AB Feature");
+            System.out.println("No--Azure Boards Feature");
         }
     }
 }
