@@ -11,7 +11,7 @@ public class AC{
     }
     private static void print(String inPut){
         if(Search(inPut) != -1){
-            System.out.println("Yes");
+            System.out.println("Yes--Azure Boards Feature");
         }
         else{
             System.out.println("No--Azure Boards Feature");
